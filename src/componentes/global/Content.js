@@ -25,3 +25,5 @@ export default Content;
 }
 
 export default Content;*/
+
+//instalar yarn = npm install -g yarn
